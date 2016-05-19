@@ -10,7 +10,7 @@ gems: [jekyll-paginate]
 title: Github Blog Template
 url: http://JunWeiUp.github.io
 feed: /atom.xml
-author_info: <a href="http://JunWeiUp.github.io/">taotaoli</a>
+author_info: <a href="http://JunWeiUp.github.io/">JunWeiUp</a>
 
 myblog:
   gavatar: images/3.jpg
