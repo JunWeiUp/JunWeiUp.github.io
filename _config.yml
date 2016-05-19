@@ -8,9 +8,9 @@ encoding: UTF-8
 gems: [jekyll-paginate]
 
 title: Github Blog Template
-url: http://litaotao.github.io
+url: http://JunWeiUp.github.io
 feed: /atom.xml
-author_info: <a href="http://litaotao.github.io/">taotaoli</a>
+author_info: <a href="http://JunWeiUp.github.io/">taotaoli</a>
 
 myblog:
   gavatar: images/3.jpg
