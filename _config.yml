@@ -7,7 +7,7 @@ permalink: /:title
 encoding: UTF-8
 gems: [jekyll-paginate]
 
-title: Github Blog Template
+title: Github Blog JunWeiUp
 url: http://JunWeiUp.github.io
 feed: /atom.xml
 author_info: <a href="http://JunWeiUp.github.io/">JunWeiUp</a>
